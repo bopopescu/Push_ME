@@ -20,7 +20,7 @@ else
         if [[ ! -d "./KindleEar/.git" ]]
         then
             rm -rf ./KindleEar
-            git clone https://github.com/cdhigh/KindleEar.git
+            git clone https://github.com/herrizd/Push_ME.git
         else
             cd ./KindleEar
             git pull
