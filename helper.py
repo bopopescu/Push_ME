@@ -15,7 +15,7 @@ __Date__ = '2017-09-03'
 
 CUSTOM_FILE = 'custom.txt'
 KE_DIR = 'KindleEar'
-KE_MASTER_DIR = 'KindleEar-master'
+KE_MASTER_DIR = 'KindleEar-main'
 PAT_APP = r"^application:\s*([\w]+)"
 PAT_EMAIL = r"^SRC_EMAIL\s*=\s*[\"\']([\w@\.-]+)[\"\'](.*)"
 PAT_DOMAIN = r"^DOMAIN\s*=\s*[\"\']([\w:/\.-]+)[\"\'](.*)"
